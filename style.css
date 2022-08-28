@@ -1,0 +1,11 @@
+div {
+width: 300px;
+font-family: sans-serif;
+border-style: dotted;
+position: relative;
+text-align: center;
+}
+
+input{
+   font-family: 'Courier New', Courier, monospace;
+}
